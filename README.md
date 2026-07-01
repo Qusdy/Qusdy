@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Технологии](https://skillicons.dev/icons?i=java,spring,gradle,maven,hibernate,kafka,redis,postgres,git,docker)](https://skillicons.dev)
+
 <!--
 **Qusdy/Qusdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
